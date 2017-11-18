@@ -1,0 +1,24 @@
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.dll
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.pdb
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\bin\Debug\Core Library.dll
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\bin\Debug\TokenLibrary.dll
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\bin\Debug\Core Library.pdb
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\obj\Debug\SemanticAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\obj\Debug\SemanticAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\obj\Debug\SemanticAnalyzer.dll
+C:\Users\acer\Desktop\Automata\NEW\NOV15\SemanticAnalyzer\obj\Debug\SemanticAnalyzer.pdb
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.dll
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.pdb
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\bin\Debug\Core Library.dll
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\bin\Debug\Core Library.pdb
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\obj\Debug\SemanticAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\obj\Debug\SemanticAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\obj\Debug\SemanticAnalyzer.dll
+C:\Users\Carbonida\Desktop\161117\SemanticAnalyzer\obj\Debug\SemanticAnalyzer.pdb
