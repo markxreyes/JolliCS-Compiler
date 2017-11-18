@@ -1,0 +1,14 @@
+C:\Users\Pau\Desktop\4th Year 1st Sem\Automata\LexiCom-master\COMPILER\Core Library\bin\Debug\Core Library.dll
+C:\Users\Pau\Desktop\4th Year 1st Sem\Automata\LexiCom-master\COMPILER\Core Library\bin\Debug\Core Library.pdb
+C:\Users\Pau\Desktop\4th Year 1st Sem\Automata\LexiCom-master\COMPILER\Core Library\obj\Debug\Core Library.dll
+C:\Users\Pau\Desktop\4th Year 1st Sem\Automata\LexiCom-master\COMPILER\Core Library\obj\Debug\Core Library.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\Core Library\bin\Debug\Core Library.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\Core Library\bin\Debug\Core Library.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\Core Library\obj\Debug\Core Library.csproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\Core Library\obj\Debug\Core Library.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\Core Library\obj\Debug\Core Library.pdb
+C:\Users\Carbonida\Desktop\161117\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\161117\Core Library\obj\Debug\Core Library.csproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\161117\Core Library\obj\Debug\Core Library.dll
+C:\Users\Carbonida\Desktop\161117\Core Library\obj\Debug\Core Library.pdb
