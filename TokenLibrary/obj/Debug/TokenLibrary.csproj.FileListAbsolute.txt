@@ -1,0 +1,11 @@
+C:\Users\Pau\Desktop\4th Year 1st Sem\Automata\LexiCom-master\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+C:\Users\Pau\Desktop\4th Year 1st Sem\Automata\LexiCom-master\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+C:\Users\Pau\Desktop\4th Year 1st Sem\Automata\LexiCom-master\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Pau\Desktop\4th Year 1st Sem\Automata\LexiCom-master\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+C:\Users\Pau\Desktop\4th Year 1st Sem\Automata\LexiCom-master\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\TokenLibrary\obj\Debug\TokenLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\TokenLibrary\obj\Debug\TokenLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb
