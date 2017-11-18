@@ -1,0 +1,41 @@
+C:\Users\Pau\Documents\JolliCS VBnet\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Pau\Documents\JolliCS VBnet\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Pau\Documents\JolliCS VBnet\SyntaxAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Pau\Documents\JolliCS VBnet\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Pau\Documents\JolliCS VBnet\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.dll
+C:\Users\Pau\Documents\JolliCS VBnet\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\SyntaxAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\SyntaxAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\SyntaxAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\SyntaxAnalyzer\bin\Debug\Core Library.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\SyntaxAnalyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\SyntaxAnalyzer\bin\Debug\Core Library.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\SyntaxAnalyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Carbonida\Desktop\161117\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\161117\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\161117\SyntaxAnalyzer\bin\Debug\Core Library.dll
+C:\Users\Carbonida\Desktop\161117\SyntaxAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\161117\SyntaxAnalyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Carbonida\Desktop\161117\SyntaxAnalyzer\bin\Debug\Core Library.pdb
+C:\Users\Carbonida\Desktop\161117\SyntaxAnalyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Carbonida\Desktop\161117\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\161117\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\161117\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\161117\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
