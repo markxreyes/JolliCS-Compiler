@@ -1,0 +1,221 @@
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pau\Documents\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Pau\Documents\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Pau\Documents\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Pau\Documents\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\Pau\Documents\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Pau\Documents\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Pau\Documents\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Pau\Documents\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Pau\Documents\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Pau\Documents\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Pau\Documents\JolliCS VBnet\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\NOV1-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\NOV2-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\NOV4-COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\NOV6PM- COMPILER\NOV51221PM- COMPILER\NOV4-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\NOV61248PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\bin\Debug\Core Library.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\bin\Debug\Core Library.pdb
+C:\Users\Carbonida\Desktop\COMPILER\COMPILER\NOV6119PM-COMPILER\LexicalAnalyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\Core Library.dll
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\TokenLibrary.dll
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\Core Library.pdb
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\SemanticAnalyzer.dll
+C:\Users\acer\Desktop\Automata\NEW\NOV15\LexicalAnalyzer\bin\Debug\SemanticAnalyzer.pdb
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\Core Library.dll
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\SemanticAnalyzer.dll
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\Core Library.pdb
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\SemanticAnalyzer.pdb
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\161117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\Core Library.dll
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\SemanticAnalyzer.dll
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.dll
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\Core Library.pdb
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\SemanticAnalyzer.pdb
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.Resources.resources
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.vbproj.CoreCompileInputs.cache
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.exe
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.xml
+C:\Users\Carbonida\Desktop\171117\LexicalAnalyzer\obj\x86\Debug\LexicalAnalyzer.pdb

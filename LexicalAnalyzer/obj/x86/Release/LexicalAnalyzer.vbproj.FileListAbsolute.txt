@@ -1,0 +1,26 @@
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\bin\Release\LexicalAnalyzer.exe
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\bin\Release\LexicalAnalyzer.pdb
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\bin\Release\LexicalAnalyzer.xml
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.Form1.resources
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.Resources.resources
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.exe
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.xml
+C:\Users\CedrickKun\AppData\Local\Temporary Projects\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.pdb
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.exe
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.xml
+C:\Users\CedrickKun\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.pdb
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\bin\Release\LexicalAnalyzer.exe
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\bin\Release\LexicalAnalyzer.pdb
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\bin\Release\LexicalAnalyzer.xml
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.Form1.resources
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.Resources.resources
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.exe
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.xml
+C:\Users\Cedrick\Desktop\ojt time program\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.pdb
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.exe
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.xml
+C:\Users\Cedrick\Desktop\vb projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.pdb
